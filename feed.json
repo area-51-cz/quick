@@ -9,5 +9,20 @@
         "name": "Jan Rippl"
     },
     "items": [
+        {
+            "id": "https://area-51.cz/pripravujeme.html",
+            "url": "https://area-51.cz/pripravujeme.html",
+            "title": "Přípravujeme...",
+            "summary": "Připravujeme...",
+            "content_html": "<p>Připravujeme...</p>",
+            "image": "https://area-51.cz/media/posts/1/alien3.png",
+            "author": {
+                "name": "Jan Rippl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-16T07:00:33+02:00",
+            "date_modified": "2023-06-16T07:00:33+02:00"
+        }
     ]
 }

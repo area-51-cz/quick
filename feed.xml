@@ -3,10 +3,33 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-06-16T07:00:33+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
     <id>https://area-51.cz</id>
 
+    <entry>
+        <title>Přípravujeme...</title>
+        <author>
+            <name>Jan Rippl</name>
+        </author>
+        <link href="https://area-51.cz/pripravujeme.html"/>
+        <id>https://area-51.cz/pripravujeme.html</id>
+        <media:content url="https://area-51.cz/media/posts/1/alien3.png" medium="image" />
+
+        <updated>2023-06-16T07:00:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://area-51.cz/media/posts/1/alien3.png" alt="" />
+                    Připravujeme...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://area-51.cz/media/posts/1/alien3.png" class="type:primaryImage" alt="" /></p>
+                <p>Připravujeme...</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
