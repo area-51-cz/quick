@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-16T07:33:04+02:00</updated>
+    <updated>2023-06-16T07:35:17+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -20,11 +20,11 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-16T07:33:04+02:00</updated>
+        <updated>2023-06-16T07:35:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/alien3.png" alt="" />
-                    Připravujeme... Název Zaměření Hotovo (%) AREA-51 Technologie 5%
+                    Připravujeme... Seznam projektů Název Zaměření Hotovo (%) AREA-51 Technologie 5% Nudist@nline Nahota 60%
                 ]]>
             </summary>
         <content type="html">
@@ -32,7 +32,7 @@
                     <p><img src="https://area-51.cz/media/posts/1/alien3.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://area-51.cz/media/posts/1/alien3-2.png" alt="" width="2000" height="2000" sizes="100vw" srcset="https://area-51.cz/media/posts/1/responsive/alien3-2-xs.png 300w ,https://area-51.cz/media/posts/1/responsive/alien3-2-sm.png 480w ,https://area-51.cz/media/posts/1/responsive/alien3-2-md.png 768w ,https://area-51.cz/media/posts/1/responsive/alien3-2-lg.png 1024w ,https://area-51.cz/media/posts/1/responsive/alien3-2-xl.png 1360w ,https://area-51.cz/media/posts/1/responsive/alien3-2-2xl.png 1600w"></figure>
 <p>Připravujeme...</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1"><caption>Seznam projektů</caption>
 <tbody>
 <tr>
 <td style="width: 33.2843%;">Název</td>
@@ -43,6 +43,11 @@
 <td style="width: 33.2843%;"><a href="https://area-51.cz">AREA-51</a></td>
 <td style="width: 33.2843%;">Technologie</td>
 <td style="width: 33.2889%;">5%</td>
+</tr>
+<tr>
+<td style="width: 33.2843%;"><a href="https://nudista.online">Nudist@nline</a></td>
+<td style="width: 33.2843%;">Nahota</td>
+<td style="width: 33.2889%;">60%</td>
 </tr>
 </tbody>
 </table>
