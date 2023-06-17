@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-17T23:41:40+02:00</updated>
+    <updated>2023-06-17T23:52:45+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -16,20 +16,20 @@
         </author>
         <link href="https://area-51.cz/pripravujeme.html"/>
         <id>https://area-51.cz/pripravujeme.html</id>
-        <media:content url="https://area-51.cz/media/posts/1/alien3.png" medium="image" />
+        <media:content url="https://area-51.cz/media/posts/1/a1.png" medium="image" />
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-17T23:41:40+02:00</updated>
+        <updated>2023-06-17T23:52:45+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://area-51.cz/media/posts/1/alien3.png" alt="" />
+                        <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
                     Připravujeme... Nějaký text Seznam webových projektů: Název Zaměření Hotovo (%) Adamita CZ Nahota, Nudismus (CZ) 0% AREA-51 Technologie (CZ) 5% Nude In Public EU Nahota, Nudismus (CZ) 35% Nudista Online Nahota, Nudismus (EN) 60% Nahej CZ Nahota, Nudismus (CZ) 0% Nahatej CZ Nahota, Nudismus (CZ)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://area-51.cz/media/posts/1/alien3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://area-51.cz/media/posts/1/a1.png" class="type:primaryImage" alt="" /></p>
                 <p>Připravujeme...</p>
 <figure class="post__image post__image--left"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://area-51.cz/media/posts/1/alien3-2.png" alt="" width="2000" height="2000" sizes="100vw" srcset="https://area-51.cz/media/posts/1/responsive/alien3-2-xs.png 300w ,https://area-51.cz/media/posts/1/responsive/alien3-2-sm.png 480w ,https://area-51.cz/media/posts/1/responsive/alien3-2-md.png 768w ,https://area-51.cz/media/posts/1/responsive/alien3-2-lg.png 1024w ,https://area-51.cz/media/posts/1/responsive/alien3-2-xl.png 1360w ,https://area-51.cz/media/posts/1/responsive/alien3-2-2xl.png 1600w"></figure>Nějaký text</p>
 <table style="border-collapse: collapse; width: 100%;" border="1"><caption>Seznam webových projektů:</caption>
