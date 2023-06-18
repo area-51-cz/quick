@@ -3,12 +3,32 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-18T11:06:11+02:00</updated>
+    <updated>2023-06-18T12:12:16+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
     <id>https://area-51.cz</id>
 
+    <entry>
+        <title>Publii</title>
+        <author>
+            <name>Jan Rippl</name>
+        </author>
+        <link href="https://area-51.cz/publii.html"/>
+        <id>https://area-51.cz/publii.html</id>
+
+        <updated>2023-06-18T12:12:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Publii CMS
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Publii CMS</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Připravujeme...</title>
         <author>

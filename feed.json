@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://area-51.cz/publii.html",
+            "url": "https://area-51.cz/publii.html",
+            "title": "Publii",
+            "summary": "Publii CMS",
+            "content_html": "<p>Publii CMS</p>",
+            "author": {
+                "name": "Jan Rippl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-18T12:12:16+02:00",
+            "date_modified": "2023-06-18T12:12:16+02:00"
+        },
+        {
             "id": "https://area-51.cz/pripravujeme.html",
             "url": "https://area-51.cz/pripravujeme.html",
             "title": "Připravujeme...",
