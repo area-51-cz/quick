@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-20T01:00:39+02:00</updated>
+    <updated>2023-06-20T01:02:43+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -40,7 +40,7 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-20T01:00:39+02:00</updated>
+        <updated>2023-06-20T01:02:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
@@ -55,7 +55,8 @@
 <p class="dropcap">A51, neblo-li AREA - 51, je název mého úložiště programových skriptů na službě <a href="https://github.com/" target="_blank" rel="noopener noreferrer">github</a>, jenž využívám pro své projekty. Rovněž zde sídlí i tento web, jenž jako jediný provozuji mimo svůj server.</p>
 <p>To má své opodstatnění pro případ, kdy dojde na příslušném serveru k například k výpadku, a je nutné o tom informovat...</p>
 <p style="clear: both;"> </p>
-<blockquote>
+<blockquote class="msg msg--highlight">
+<p> </p>
 <p>Oblast 51 (Area 51)</p>
 <p>Katastrální území státu Nevada (USA), jehož součástí je i vyschlé Groomovo jezero (Groom Lake), na jehož dně bylo vybudováno přísně tajné testovací zařízení pod kódem ICAO KXTA - tzv. Homey Airport (Dreamland - Země snů) s nejdelší přistávací dráhou na světě...</p>
 </blockquote>
