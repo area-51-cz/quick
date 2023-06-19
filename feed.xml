@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-19T23:46:48+02:00</updated>
+    <updated>2023-06-20T00:13:41+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -40,7 +40,7 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-19T23:46:48+02:00</updated>
+        <updated>2023-06-20T00:13:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
@@ -58,8 +58,10 @@
 <p>Oblast 51 (Area 51)</p>
 <p>Katastrální území státu Nevada (USA), jehož součástí je i vyschlé Groomovo jezero (Groom Lake), na jehož dně bylo vybudováno přísně tajné testovací zařízení pod kódem ICAO KXTA - tzv. Homey Airport (Dreamland - Země snů) s nejdelší přistávací dráhou na světě...</p>
 </blockquote>
+<h4>Povaha projektu</h4>
 <p>text</p>
-<aside class="post__aside post__aside--left">text 2</aside>
+<h4>Cíle projektu</h4>
+<p>text</p>
 <ol class="ordered-list">
 <li>text A</li>
 </ol>
