@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-20T01:02:43+02:00</updated>
+    <updated>2023-06-20T04:59:50+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -40,7 +40,7 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-20T01:02:43+02:00</updated>
+        <updated>2023-06-20T04:59:50+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
@@ -67,7 +67,9 @@
 <h4>Cíle projektu</h4>
 <p>text</p>
 <ol class="ordered-list">
-<li>text A</li>
+<li>Cíl 1:</li>
+<li>Cíl 2:</li>
+<li>Cíl 3:</li>
 </ol>
 <table style="border-collapse: collapse; width: 100%; height: 402.875px;" border="1"><caption>Seznam webových projektů:</caption>
 <tbody>
