@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-06-21T05:10:39+02:00</updated>
+    <updated>2023-06-28T09:11:58+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -40,11 +40,11 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-06-21T05:10:39+02:00</updated>
+        <updated>2023-06-28T09:11:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
-                    Připravuji celou řadu internetových projektů, jenž jsou v tuto chvíli z větší či menší části rozpracovány, některé z nich pak v jejich základní podobě téměř dokončeny. A51, neblo-li AREA - 51, je název mého úložiště programových skriptů na službě github, jenž využívám pro své projekty.
+                    Připravuji celou řadu internetových projektů, jenž jsou v tuto chvíli z větší či menší části rozpracovány, některé z nich pak v jejich základní podobě téměř dokončeny. A-51, neblo-li AREA - 51, je název mého úložiště programových skriptů na službě github, jenž využívám pro své projekty.
                 ]]>
             </summary>
         <content type="html">
@@ -52,7 +52,7 @@
                     <p><img src="https://area-51.cz/media/posts/1/a1.png" class="type:primaryImage" alt="" /></p>
                 <p>Připravuji celou řadu internetových projektů, jenž jsou v tuto chvíli z větší či menší části rozpracovány, některé z nich pak v jejich základní podobě téměř dokončeny.</p>
 <figure class="post__image post__image--left"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://area-51.cz/media/posts/1/alien3-2.png" alt="" width="2000" height="2000" sizes="100vw" srcset="https://area-51.cz/media/posts/1/responsive/alien3-2-xs.png 300w ,https://area-51.cz/media/posts/1/responsive/alien3-2-sm.png 480w ,https://area-51.cz/media/posts/1/responsive/alien3-2-md.png 768w ,https://area-51.cz/media/posts/1/responsive/alien3-2-lg.png 1024w ,https://area-51.cz/media/posts/1/responsive/alien3-2-xl.png 1360w ,https://area-51.cz/media/posts/1/responsive/alien3-2-2xl.png 1600w"></figure>
-<p class="dropcap">A51, neblo-li AREA - 51, je název mého úložiště programových skriptů na službě <a href="https://github.com/" target="_blank" rel="noopener noreferrer">github</a>, jenž využívám pro své projekty. Rovněž zde sídlí i tento web, jenž jako jediný provozuji mimo svůj server.</p>
+<p class="dropcap">A-51, neblo-li AREA - 51, je název mého úložiště programových skriptů na službě <a href="https://github.com/" target="_blank" rel="noopener noreferrer">github</a>, jenž využívám pro své projekty. Rovněž zde sídlí i tento web, jenž jako jediný provozuji mimo svůj server.</p>
 <p>To má své opodstatnění pro případ, kdy dojde na příslušném serveru k například k výpadku, a je nutné o tom informovat...</p>
 <p style="clear: both;"> </p>
 <blockquote class="msg msg--highlight">
