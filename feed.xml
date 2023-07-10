@@ -3,7 +3,7 @@
     <title>AREA-51</title>
     <link href="https://area-51.cz/feed.xml" rel="self" />
     <link href="https://area-51.cz" />
-    <updated>2023-07-08T01:20:49+02:00</updated>
+    <updated>2023-07-11T01:14:21+02:00</updated>
     <author>
         <name>Jan Rippl</name>
     </author>
@@ -40,7 +40,7 @@
             <category term="Software"/>
             <category term="Hardware"/>
 
-        <updated>2023-07-08T01:20:49+02:00</updated>
+        <updated>2023-07-11T01:14:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://area-51.cz/media/posts/1/a1.png" alt="" />
@@ -153,8 +153,8 @@
 <td style="width: 49.9288%;">Použití:</td>
 </tr>
 <tr>
-<td style="width: 49.9288%;"> </td>
-<td style="width: 49.9288%;"> </td>
+<td style="width: 49.9288%;">Micro.blog</td>
+<td style="width: 49.9288%;">Zveřejňování krátkých aktualit v různých jazycích (CZ, DE, EN) a jejich export do JSON.</td>
 </tr>
 </tbody>
 </table>
